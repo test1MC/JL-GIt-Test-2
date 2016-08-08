@@ -1,0 +1,131 @@
+﻿/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+p.autonumber
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	mc-auto-number-format: 'N: {n+}. ';
+}
+
+MadCap|dropDownHotspot.autonumber
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+	mc-auto-number-format: 'N: {n+}. ';
+}
+
+p.NoteInfo
+{
+	font-size: 12.0pt;
+	color: #ce0058;
+	font-family: 'Trebuchet MS';
+	background-color: #ffffff;
+	background-image: url('lightbulb.jpg');
+	background-repeat: no-repeat;
+	background-position: 1% Center;
+	background-size: 8%;
+	border-bottom: solid 3px #005eb8;
+	border-left: solid 2px #005eb8;
+	border-top: solid 2px #005eb8;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-radius: 6px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	border-right: solid 2px #005ebc;
+	padding-left: 60px;
+	width: 100%;
+}
+
+
